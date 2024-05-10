@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home, 1
+layout: home
 ---
 
 My name is SIYUN KIM
