@@ -1,9 +1,8 @@
 title: SIYUN KIM
 description: Hello world!
-theme: just-the-docs
-
+remote_theme: fongandrew/hydeout
 url: https://siyunkim99.github.io/1.github.io/
 
 aux_links:
   Template Repository: https://siyunkim99.github.io/1.github.io/
-remote_theme: sighingnow/jekyll-gitbook
+
