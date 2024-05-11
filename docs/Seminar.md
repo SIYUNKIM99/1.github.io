@@ -5,7 +5,7 @@ layout: default
 
 This is the space for uploading seminars.
 
-![scissors-congruence](/images/seminar/scissors-congruence.PNG)
+![scissors-congruence](./images/seminar/scissors-congruence.PNG)
 
 [What is scissor congruence?](https://www.youtube.com/watch?v=J_wDWke60WM)
 
