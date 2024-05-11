@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-
+<div align=center>
 ![mimic](./images/mimic.png)
 
 What is MIMIC?
