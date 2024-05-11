@@ -2,7 +2,9 @@
 title: Home
 layout: home
 ---
-![mimic](./images/mimic.png)
+<p align="center">
+  <img width="460" height="300" src="./images/mimic.png">
+</p>
 
 What is MIMIC?
 
