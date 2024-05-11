@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-![mimic](/images/mimic.png)
+![mimic](./images/mimic.png)
 
 What is MIMIC?
 
