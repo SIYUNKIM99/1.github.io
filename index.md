@@ -3,4 +3,10 @@ title: Home
 layout: home
 ---
 
-My name is SIYUN KIM
+![mimic](/images/mimic.png)
+
+What is MIMIC?
+
+Mimic Is Math Interchange Club.
+
+Anyone who is interested in Mathematics can join our club!
