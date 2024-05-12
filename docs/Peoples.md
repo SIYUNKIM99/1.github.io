@@ -1,6 +1,7 @@
 ---
 title: Peoples
 layout: default
+parent: Home
 ---
 
 회장: 신경민
