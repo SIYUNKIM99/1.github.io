@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+has_children: true
 ---
 <p align="center">
   <img width="200" height="200" src="./images/mimic.png">
